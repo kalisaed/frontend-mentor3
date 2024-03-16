@@ -269,7 +269,7 @@ input:hover {
         background: hsl(276, 55%, 52%);
     }
     .fram{
-        left: 17%;
+        left: 15.5%;
         top: 5%;
         height: 600px;
     }
@@ -277,7 +277,7 @@ input:hover {
         height: 1000px;
     }
     .text{
-        left: 11%;
+        left: 9.5%;
         top: 10%;
         width: 80%;
         text-align: center;
